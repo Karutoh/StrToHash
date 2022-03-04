@@ -1,0 +1,4 @@
+# ninja log v5
+0	11	0	clean	52b945d4a2304635
+1	241	6639758296298081	CMakeFiles/StrToHash.dir/main.cpp.obj	a06af0264de60bba
+242	877	6639758301208371	StrToHash.exe	eb8ab324284d1815
